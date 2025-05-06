@@ -1,6 +1,6 @@
 <script lang="ts">
     import Header from "$lib/components/Header.svelte"
-import { Container, Styles } from "$sve"
+import { Container, Styles } from "@sveltestrap/sveltestrap"
     let {children} = $props()
 </script>
 
